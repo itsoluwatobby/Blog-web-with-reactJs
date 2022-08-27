@@ -1,6 +1,6 @@
-#React Project
+# React Project
 
-###React Blog Netify
+### React Blog Netify
 
-#####This a development project, not database implementation. 
+##### This a development project, not database implementation. 
 [x] json server was used as a development database for testing purpose
